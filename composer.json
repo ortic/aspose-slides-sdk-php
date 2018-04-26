@@ -1,6 +1,6 @@
 {
     "description": 	"Aspose.Slides for Cloud is a Cloud API to work with Microsoft PowerPoint and OpenOffice Presentation files. This is the repository for Aspose.Slides Cloud SDK for PHP. Using this SDK, Aspose.Slides Cloud APIs can be easily used in PHP applications.",
-    "name": 		"aspose/slides-sdk-php",
+    "name": 		"ortic/aspose-slides-sdk-php",
     "type": 		"library",
     "keywords" : 	["aspose", "php", "aspose cloud", "presentation", "powerpoint", "openoffice"],
 	"homepage": 	"https://github.com/asposeslidescloud/Aspose.Slides_Cloud_SDK_For_PHP",
@@ -13,7 +13,7 @@
     "require": {
         "php": ">=5.3.2",
         "ext-curl": "*",
-        "aspose/storage-sdk-php": "1.0.*"
+        "aspose/storage-sdk-php": "dev-master"
     },
     "autoload": {
         "psr-0": {
